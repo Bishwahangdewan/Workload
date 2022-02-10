@@ -13,7 +13,12 @@
     "body-parser": "^1.19.1",
     "express": "^4.17.2",
     "express-router": "0.0.1",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
   }
 }
